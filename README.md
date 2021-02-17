@@ -1,2 +1,2 @@
 # Product Writing
-Product learnings &amp; ramblings
+Here's where I house my product thoughts, reflections and learnings.
