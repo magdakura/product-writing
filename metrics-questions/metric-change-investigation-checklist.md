@@ -2,10 +2,9 @@
 
 Add-to-cart rate is often used as an indicator of visitors' purchase intent. You, a product manager on the ecomm team, noticed that this week's ATC rate is down significantly y-o-y. The tracking functionality is working as expected, as well as the query used to pull the data. **How would you go about investigating the cause of the drop?**
 
-
 ## Answer
 
-I have a tested approach to investigating performance issues on my products. First, I want to understand the metric itself, and the nature of the decrease. Then, I slice and dice the data to identify user cohorts and points in user journey that might be negatively impacted outside of the metric. Below is the exact checklist  I use to diagnose performance problems:
+I have a tested approach to investigating performance issues in my products. First, I want to understand the metric itself, and the nature of the decrease. Then, I slice and dice the data to identify user cohorts and points in user journey that might be negatively impacted outside of the metric. Below is the exact checklist  I use to diagnose performance problems:
 
 **1\. What is happening?** 
 
@@ -33,7 +32,7 @@ Answers to questions above help diagnose the root cause of the problem, which co
 
 **4\. Why is it happening?**
 
-Internal factors as reasons for the change:
+*Internal factors as reasons for the change:*
 
 -   Are there any recent launches that might have caused bugs or usability issues? (on our team and outside of our team)
 
@@ -46,7 +45,7 @@ Internal factors as reasons for the change:
 -   Have we run any initiatives that might have cracked down on bot or other robo-traffic recently that might have altered the metrics? 
 
 
-External factors as reasons for the change:
+*External factors as reasons for the change:*
 
 -   Is there a new entrant to the market (competition)?
 
