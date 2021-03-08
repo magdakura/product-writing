@@ -11,6 +11,12 @@ What are the top 3 ideas you'd like to suggest for further investigation?  Why 
 3. Brainstorm Ideas
 4. Execution Plan
 
+_PSAs:_
+
+-   Making lots of assumptions based on my personal experience and cursory industry research
+
+-   Limiting this exercise to apparel, only
+
 ## Goal of improvement
 
 #### Regain and retain the millennial customer.
@@ -24,11 +30,6 @@ _Why?_
 _How would we measure success?_
 - % of shoppers in the age group 25-40.
 
-_PSAs:_
-
--   Making lots of assumptions based on my personal experience and cursory industry research
-
--   Limiting this exercise to apparel, only
 
 ## First things first, know your customer
 
