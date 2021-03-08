@@ -9,7 +9,7 @@ What are the top 3 ideas you'd like to suggest for further investigation?  Why 
 
 #### Regain and retain the millennial customer.
 
-**Why?**
+_Why?_
 
 -   Millennials is the largest living adult generation (surpassed Baby Boomers!) and we are on the cusp of our prime spending years. 
 
