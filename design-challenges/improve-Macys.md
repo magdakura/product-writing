@@ -7,7 +7,7 @@ What are the top 3 ideas you'd like to suggest for further investigation?  Why 
 
 ## Goal of improvement
 
-**Regain and retain the millennial customer**
+#### Regain and retain the millennial customer.
 
 **Why?**
 
