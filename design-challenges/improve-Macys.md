@@ -97,7 +97,7 @@ Design Principles
 
 **3.  Outfit creator**
 
--   Browse user-created outfits - filterable by hight, size and body type
+-   Browse user-created outfits - filterable by height, size and body type
 
 -   Create your avatar - upload a face shot, choose a hairstyle and enter your body measurements. 
 
