@@ -5,6 +5,12 @@ What are the top 3 ideas you'd like to suggest for further investigation?  Why 
 
 * * * * *
 
+## Process
+1. Identify North Star Goal 
+2. Identify user needs, wants and problems along the user journey
+3. Brainstorm Ideas
+4. Execution Plan
+
 ## Goal of improvement
 
 #### Regain and retain the millennial customer.
