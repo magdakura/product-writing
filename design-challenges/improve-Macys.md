@@ -16,7 +16,7 @@ _Why?_
 -   It's no secret that Macy's has struggled to attract and retain millennials.
 
 _How would we measure success?_
-% of shoppers in the age group 25-40.
+- % of shoppers in the age group 25-40.
 
 _PSAs:_
 
