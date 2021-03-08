@@ -25,10 +25,6 @@ _Why?_
 
 -   Millennials is the largest living adult generation (surpassed Baby Boomers!) and we are on the cusp of our prime spending years. 
 
--   It's no secret that Macy's has struggled to attract and retain millennials.
-
-_How would we measure success?_
-- % of shoppers in the age group 25-40.
 
 
 ## First things first, know your customer
