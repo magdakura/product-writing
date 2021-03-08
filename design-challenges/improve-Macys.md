@@ -15,6 +15,9 @@ _Why?_
 
 -   It's no secret that Macy's has struggled to attract and retain millennials.
 
+_How would we measure success?_
+% of shoppers in the age group 25-40.
+
 _PSAs:_
 
 -   Making lots of assumptions based on my personal experience and cursory industry research
@@ -49,7 +52,7 @@ _PSAs:_
 
 One misconception is that physical retail is dead for millennials. This is not true, but in-person shopping has to be trip-worthy and provide a delightful experience (REI, Whole Foods, Ikea).
 
-## User problems along the user journey
+## User problems along the shopping journey
 
 **As a Millennial:**
 
@@ -59,13 +62,10 @@ One misconception is that physical retail is dead for millennials. This is not t
 
 3.  The amount of items is overwhelming. It's hard to find something that suits me.
 
-4.  Customer Service feel like "Store Service" where they exist to help the store look good, but not help me get something that makes me look good
-
-5.  If I find something I like, I'm not sure I'm getting the best deal, so I have to do additional research
 
 ## Opportunity
 
-How might we reframe Macy's in millennial's mind as a destination to find exactly what they are looking for?
+#### How might we reframe Macy's in millennial's mind as a destination to find exactly what they are looking for?
 
 Design Principles
 
@@ -77,21 +77,17 @@ Design Principles
 
 **1.  Fashion coach**
 
--   Initial online video chat OR in-store meeting where you chat through style preferences
+-   Set up initial online video chat OR in-store meeting where you chat through style preferences with the goal of refreshing your wardrobe
 
--   E.g. Source fashion coaches from IG to an fashion ambassador program
-
--   Receive your first box proposal where you can swap items until you're satisfied with the choices
+-   Receive your first box proposal where you can swap items until you're satisfied with the coach's choices
 
 -   Receive your personalized clothes box at your own home or have a box waiting for you at your local store
 
--   Receive personalized recommendations from your coach from new inventory
-
--   You can refresh your closet every 3 months
+-   Periodically, receive a note from coach with personalized recommendations from new inventory
 
 -   Receive new clothes once a quarter and try on in the comfort of your home before making a purchase decision.
 
--   Get one of a kind, special design clothes, just for members
+-   Get one of a kind, special designer clothes, made just for members
 
 **2.  Recreate "this look" (app feature or browser extension)**
 
