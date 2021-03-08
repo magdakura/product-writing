@@ -123,8 +123,8 @@ Fun fact: Did you know that Macy's was the first company to promote a woman to a
 
 Assuming we decided to experiment with "Recreate This Look" feature, we'd want to:
 
-1.  Validate Impact
-2.  Validate Feasilibity
+1.  Validate Feasilibity
+2.  Validate Impact
 3.  Build and Validate Prototype
 4.  Build MVP
 
