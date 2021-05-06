@@ -56,6 +56,8 @@ I'm assuming amateurs represent the largest user segment among existing Oura use
 _User Problem #1_ What does sleep score of 91 mean? How does it compare to 82? What does it mean for my day? 
 
 _User Problem #2:_ Ok, I know my sleep score - how can I improve it?  The number changes every day but I don't know why. It's hard to connect my actions to the number. 
+
+Since there are already a few solutions within Oura to User Problem #1 (FAQs, Blog, Instructional text within the app), I would like to focus on Problem #2 and brainstorm a few solutions to the problem next. 
 &nbsp;  
 &nbsp;  
 ## Step Four: Brainstorm Solutions
