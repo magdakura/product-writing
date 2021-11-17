@@ -14,14 +14,14 @@ We also know that the Oura team is focused on improving these metrics. In 2021 [
 
 ## What would the release of such an improvement look like?
 
-Imagine waking up one morning to a push notification from Oura informing you that "your data has been updated". You click through, and the first thing you see is your readiness is several points below your norm. You scroll to see your sleep metrics and note both deep sleep and REM are down 15 minutes. If you click through to trends, you'll see similar drops everywhere. What's happening?! What did I do?! You first question yourself, but then you question the device.
+Imagine waking up one morning to a push notification from Oura informing you that "your data has been updated". You click through, and the first thing you see is your readiness is several points below your norm. You scroll to see your sleep metrics and note both deep sleep and REM are down 15 minutes. If you click through to trends, you'll see similar drops everywhere. _What's happening?!_ _What did I do?!_ You first question yourself, but then you question the device.
 
 
 ## Why did my historical data change? The PM conundrum - "to override (data) or to not override"
 
 This is a good tradeoff question that I would want to mull over as a Product Manager at Oura: In case of a model update that leads to significant changes in the data, would I want to "override" the old data and show "corrected" historical data to the user? I'm assuming that we would want to use the new model going forward, however, it isn't so clear what to do about the historical data.
 
-First, let's start with a few  considerations. If the change is dramatic, it will lead to a confusing experience for the majority of your users (case described above). People that have been tracking their data judiciously (researchers, coaches, pro athletes) will feel like their understanding of their metrics has been invalidated. What is a good night of sleep anymore? Any experiments that users or researchers are currently conducting on their bodies may be rendered useless. In short, you might piss off your biggest believers.
+First, let's start with a few  considerations. If the change is dramatic, it will lead to a confusing experience for the majority of your users (case described above). People that have been tracking their data judiciously (researchers, coaches, pro athletes) will feel like their understanding of their metrics has been invalidated. _What is a good night of sleep anymore?_ Any experiments that users or researchers are currently conducting on their bodies may be rendered useless. In short, you might piss off your biggest believers.
 
 On the other hand, having accurate data is better for those same groups of super users. If it turns out that they are actually sleeping better or worse than they thought, this insight could be extremely valuable. Additionally, depending on the type of errors (systematic vs random), over time if you don't update the historical data, users' trends will be all wrong.
 
@@ -57,6 +57,6 @@ On the other hand, if the errors are randomly distributed, they would cancel out
 
 ## Unsatisfying end to my deliberation
 
-After agonizing over this question for a full week I arrived at a disappointing answer: This is most likely a no-op.
+After agonizing over this question for a full week I arrived at a disappointing answer: **This is most likely a no-op.**
 
 My gut feeling is that  the team at Oura leaves the historical data as is and only uses the new model with new data. That said, pro users may still have an option to update historical data via a one-off request.
